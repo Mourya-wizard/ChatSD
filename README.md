@@ -1,12 +1,8 @@
-Certainly! Here's a very basic README file template for a chat-based image inpainting project using Grounding DINO, SAM, and Stable Diffusion:
-
 # Chat-Based Image Inpainting with Grounding DINO, SAM, and Stable Diffusion
 
 ## Introduction
 
 This project demonstrates an image inpainting system that leverages the power of Grounding DINO, Spatially Adaptive Denormalization (SAM), and Stable Diffusion to fill in missing or corrupted regions in images using natural language instructions.
-
-![Inpainting Demo](demo_image.jpg)
 
 ## Features
 
